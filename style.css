@@ -548,7 +548,7 @@ body {
     min-width: 50vh;
 /*    display: flex;*/
     flex-direction: column-reverse;
-    padding-bottom: 500px;
+    padding-bottom: 100px;
 }
 .about .about-content {
     display: flex;
