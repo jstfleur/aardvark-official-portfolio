@@ -118,7 +118,7 @@ document.querySelector(".contact-me2").addEventListener("click",function(){
 
 
 
-const cursor = document.querySelector('.cursor');
+cursor = document.querySelector('.cursor');
 
 const editCursor = e => {
     const { clientX: x, clientY: y } = e;
